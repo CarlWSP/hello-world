@@ -8,4 +8,5 @@ This README file is writtten in Markdown
 - __This is in bold__
 - [This is a Hyperlink](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - `This is highlited`
-- 
+
+This is a new brancch and this is a new line
